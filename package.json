@@ -1,0 +1,23 @@
+{
+  "name": "mime-magic",
+  "version": "1.0.0",
+  "description": "mime type detection using linux \"file -bE --mime-type\". If \"file -bE --mime-type\" gives out \"text/plain\", then use \"mime.getType\" instead.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yw662/mime-magic.git"
+  },
+  "keywords": [
+    "mime",
+    "magic"
+  ],
+  "author": "yw662",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yw662/mime-magic/issues"
+  },
+  "homepage": "https://github.com/yw662/mime-magic#readme"
+}
