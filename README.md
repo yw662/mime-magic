@@ -1,4 +1,4 @@
-# mime-magic
+# mimetype-magic
 
 Use command `file -bE --mime-type` to detect mime type.
 
@@ -6,9 +6,9 @@ If file gives out `text/plain`,
 then use `mime.getType`.
 
 ```js
-const mimeMagic = require('mime-magic');
+const magic = require('mimetype-magic');
 
-mimeMagic(path, type => {
+magic(path, type => {
     ...
 });
 ````

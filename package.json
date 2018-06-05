@@ -1,6 +1,6 @@
 {
-  "name": "mime-magic",
-  "version": "1.0.0",
+  "name": "mimetype-magic",
+  "version": "1.0.1",
   "description": "mime type detection using linux \"file -bE --mime-type\". If \"file -bE --mime-type\" gives out \"text/plain\", then use \"mime.getType\" instead.",
   "main": "index.js",
   "scripts": {
