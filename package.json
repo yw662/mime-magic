@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/yw662/mime-magic/issues"
   },
-  "homepage": "https://github.com/yw662/mime-magic#readme"
+  "homepage": "https://github.com/yw662/mime-magic#readme",
+  "dependencies": {
+    "mime": "^2.3.1"
+  }
 }
